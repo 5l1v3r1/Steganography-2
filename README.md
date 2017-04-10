@@ -1,4 +1,4 @@
 # Steganography
 Hide information inside pictures.
 
-![alt tag](http://imgur.com/BwxPjs6.png)
+![alt tag](http://imgur.com/lc1Mmqe.png)
